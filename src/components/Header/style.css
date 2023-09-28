@@ -111,6 +111,7 @@ header {
   .favorites {
     font-size: 1.2rem;
     color: #FFFFFF;
+    margin-right: 15%;
   }
 
   .favorites a, a:hover, a:visited {

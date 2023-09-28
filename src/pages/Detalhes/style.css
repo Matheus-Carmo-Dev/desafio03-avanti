@@ -8,13 +8,30 @@
     margin-top: 30vh;
 }
 
-.detalhes-icon{
-    height: 450px;
-    width: 250px;
+.detalhes-poster{
+    width: 194px;
+    height: 289px;
+    border-radius: 4px;
+    margin-left: -750px;
+
+}
+.text-warning {
+    margin-left: -750px;
 }
 
-.detalhes-companies{
-    max-width: 150px;
+.genero{
+    margin-left: -750px;
+}
+.description {
+    margin-top: -300px;
+    margin-left: 100px;
+    text-align: justify;
+}
+.companies{
+    margin-top: 100px;
+}
+.companies-img{
+    max-width: 120px;
     max-height: 100px;
+    align-items: center;
 }
-
